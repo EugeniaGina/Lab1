@@ -1,0 +1,15 @@
+C:\Users\UNICEF\source\repos\Lab1CSharp\Lab1CSharp\bin\Debug\net6.0\Lab1CSharp.exe
+C:\Users\UNICEF\source\repos\Lab1CSharp\Lab1CSharp\bin\Debug\net6.0\Lab1CSharp.deps.json
+C:\Users\UNICEF\source\repos\Lab1CSharp\Lab1CSharp\bin\Debug\net6.0\Lab1CSharp.runtimeconfig.json
+C:\Users\UNICEF\source\repos\Lab1CSharp\Lab1CSharp\bin\Debug\net6.0\Lab1CSharp.dll
+C:\Users\UNICEF\source\repos\Lab1CSharp\Lab1CSharp\bin\Debug\net6.0\Lab1CSharp.pdb
+C:\Users\UNICEF\source\repos\Lab1CSharp\Lab1CSharp\obj\Debug\net6.0\Lab1CSharp.csproj.AssemblyReference.cache
+C:\Users\UNICEF\source\repos\Lab1CSharp\Lab1CSharp\obj\Debug\net6.0\Lab1CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNICEF\source\repos\Lab1CSharp\Lab1CSharp\obj\Debug\net6.0\Lab1CSharp.AssemblyInfoInputs.cache
+C:\Users\UNICEF\source\repos\Lab1CSharp\Lab1CSharp\obj\Debug\net6.0\Lab1CSharp.AssemblyInfo.cs
+C:\Users\UNICEF\source\repos\Lab1CSharp\Lab1CSharp\obj\Debug\net6.0\Lab1CSharp.csproj.CoreCompileInputs.cache
+C:\Users\UNICEF\source\repos\Lab1CSharp\Lab1CSharp\obj\Debug\net6.0\Lab1CSharp.dll
+C:\Users\UNICEF\source\repos\Lab1CSharp\Lab1CSharp\obj\Debug\net6.0\refint\Lab1CSharp.dll
+C:\Users\UNICEF\source\repos\Lab1CSharp\Lab1CSharp\obj\Debug\net6.0\Lab1CSharp.pdb
+C:\Users\UNICEF\source\repos\Lab1CSharp\Lab1CSharp\obj\Debug\net6.0\Lab1CSharp.genruntimeconfig.cache
+C:\Users\UNICEF\source\repos\Lab1CSharp\Lab1CSharp\obj\Debug\net6.0\ref\Lab1CSharp.dll
